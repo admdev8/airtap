@@ -33,7 +33,7 @@
     "compression": "^1.7.1",
     "debug": "^4.1.0",
     "engine.io": "^3.4.2",
-    "engine.io-client": "3.3.2",
+    "engine.io-client": "5.1.1",
     "express": "^4.17.0",
     "find-nearest-file": "^1.1.0",
     "globs-to-files": "^1.0.0",
